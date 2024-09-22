@@ -11,7 +11,8 @@ I'm a self-taught full-stack developer at 15. I specialize in AI.
 ## 🛠️ Open Source Contributions
 I'm a firm believer in the power of open source. Check out some of my contributions:
 - [VideoExcess](https://github.com/arcadyoboukhov/VideoExcess) - Video Player made for large amounts of content
-
+- [PlainObscure](https://github.com/arcadyoboukhov/arcadyoboukhov) - Password manager which hides databases in images. 
+ 
 
 
 ## 🌍 Connect with Me
