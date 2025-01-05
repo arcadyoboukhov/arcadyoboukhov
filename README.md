@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Arcady Oboukhov!
 
-I'm a self-taught full-stack developer at 15.    
+I'm a self-taught full-stack developer at 16.    
 
 ## 👨‍💻 Skills
 - **Languages**: Python, JavaScript, C++, Java
