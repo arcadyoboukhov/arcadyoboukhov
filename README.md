@@ -1,6 +1,6 @@
-# 👋 Hi there, I'm Arcady Oboukhov!
+# Arcady Oboukhov
 
-I'm a self-taught full-stack developer at 16.    
+Oboukhov's main focus is on using his skills and knowledge to innovate technology and make the world a better place. He is dedicated to working long hours to achieve his goals and bring his vision of a better future for all to fruition Oboukhov
 
 ## 👨‍💻 Skills
 - **Languages**: Primarily Python, JavaScript, and C++ 
