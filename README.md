@@ -16,7 +16,6 @@ I'm a firm believer in the power of open source. Check out some of my contributi
 
 ## 🌍 Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/arcady-oboukhov-294b0b323)
-- [Twitter](https://x.com/ArcadyOboukhov?mx=2)
 - [Personal Website](https://arcadyoboukhov.com)
 
 ## 📫 How to Reach Me
