@@ -1,6 +1,6 @@
 # Arcady Oboukhov
 
-Oboukhov's main focus is on using his skills and knowledge to innovate technology and make the world a better place. He is dedicated to working long hours to achieve his goals and bring his vision of a better future for all to fruition Oboukhov
+Oboukhov's main focus is on using his skills and knowledge to innovate technology and make the world a better place. He is dedicated to working long hours to achieve his goals and bring his vision of a better future for all to fruition.
 
 ## 👨‍💻 Skills
 - **Languages**: Primarily Python, JavaScript, and C++ 
