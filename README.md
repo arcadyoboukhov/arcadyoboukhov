@@ -7,11 +7,6 @@ Oboukhov's main focus is on using his skills and knowledge to innovate technolog
 - **Frameworks/Libraries**: React, Node.js
 - **Databases**: MySQL 
 
-## 🛠️ Open Source Contributions
-I'm a firm believer in the power of open source. Check out some of my contributions:
-- [VideoExcess](https://github.com/arcadyoboukhov/VideoExcess) - Video Player made for large amounts of content
-- [PlainObscure](https://github.com/arcadyoboukhov/PlainObscure) - Password manager which hides databases in images. 
- 
 
 
 ## 🌍 Connect with Me
