@@ -11,9 +11,9 @@ Oboukhov's main focus is on using his skills and knowledge to innovate technolog
 
 ## 🌍 Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/arcady-oboukhov-294b0b323)
-- [Personal Website](https://arcadyoboukhov.com)
+
 
 ## 📫 How to Reach Me
-Feel free to reach out via email: [contact@arcadyoboukhov.com]
+Feel free to reach out via email: [arcady.oboukhov@gmail.com]
 
 ---
