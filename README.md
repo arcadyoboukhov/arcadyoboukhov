@@ -14,6 +14,6 @@ Oboukhov's main focus is on using his skills and knowledge to innovate technolog
 
 
 ## 📫 How to Reach Me
-Feel free to reach out via email: [arcady.oboukhov@gmail.com]
+Feel free to reach out via email: [oboukhov@proton.me]
 
 ---
