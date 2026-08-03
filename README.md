@@ -4,6 +4,8 @@
 
 ## 👨‍💻 Skills
 -  Python
+-  Computer Vision
+-  Deep Learning
 
 
 
