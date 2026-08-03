@@ -1,11 +1,9 @@
 # Arcady Oboukhov
 
-Oboukhov's main focus is on using his skills and knowledge to innovate technology and make the world a better place. He is dedicated to working long hours to achieve his goals and bring his vision of a better future for all to fruition.
+
 
 ## 👨‍💻 Skills
-- **Languages**: Primarily Python, JavaScript, and C++ 
-- **Frameworks/Libraries**: React, Node.js
-- **Databases**: MySQL 
+-  Python
 
 
 
@@ -14,6 +12,6 @@ Oboukhov's main focus is on using his skills and knowledge to innovate technolog
 
 
 ## 📫 How to Reach Me
-Feel free to reach out via email: [oboukhov@proton.me]
+Feel free to reach out via email: [arcady.oboukhov@gmail.com]
 
 ---
