@@ -6,6 +6,7 @@
 -  Python
 -  Computer Vision
 -  Deep Learning
+-  Computational Neuroscience
 
 
 
