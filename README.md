@@ -1,18 +1,9 @@
 # Arcady Oboukhov
 
+Machine Learning Engineer | Computer Vision & Multimodal AI | Research
+Arcady Oboukhov
 
-
-## 👨‍💻 Skills
--  Python
--  Computer Vision
--  Deep Learning
--  Computational Neuroscience
-
-
-
-## 🌍 Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/arcady-oboukhov-294b0b323)
-
+I specialize on processing visual and Multimedia data with experience in medical AI, Entertainment, and Research
 
 ## 📫 How to Reach Me
 Feel free to reach out via email: [arcady.oboukhov@gmail.com]
