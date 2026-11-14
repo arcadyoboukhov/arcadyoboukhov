@@ -1,7 +1,7 @@
 # Arcady Oboukhov
 
 Machine Learning Engineer | Computer Vision & Multimodal AI | Research
-Arcady Oboukhov
+
 
 I specialize on processing visual and Multimedia data with experience in medical AI, Entertainment, and Research
 
